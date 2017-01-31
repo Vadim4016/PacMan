@@ -1,0 +1,47 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     2032 MB
+Default GameObject Tag: GameController already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Vadim\Documents\GitHub\PacMan\PacMan_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.959610 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.864417 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 255.
+Total: 0.266843 ms (FindLiveObjects: 0.040586 ms CreateObjectMapping: 0.019126 ms MarkObjects: 0.142285 ms  DeleteObjects: 0.063911 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.507292 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2037.
+Total: 0.550947 ms (FindLiveObjects: 0.109163 ms CreateObjectMapping: 0.057847 ms MarkObjects: 0.371808 ms  DeleteObjects: 0.012129 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3b30 -> priority: 1 
+  Thread -> id: ed0 -> priority: 1 
